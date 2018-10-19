@@ -4,7 +4,7 @@
   "description": "backend sistema-ventas",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "test": "node_modules/.bin/mocha -w"
   },
   "author": "Junior",
